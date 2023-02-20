@@ -22,6 +22,8 @@ _UpgradeReport_Files/
 ###############
 # Directories #
 ###############
+Debug/
+Migrations/
 bin/
 obj/
 TestResults/
@@ -73,3 +75,5 @@ _[Ss]cripts
 *.nupkg
 *.ncrunchsolution
 *.dot[Cc]over
+API/obj/
+API/obj/Debug/
